@@ -1,3 +1,3 @@
 ## Contributors
-- [AAKASH SHARMA](https://github.com/aakash-sharma25) - Backend develop
+- [AAKASH SHARMA](https://github.com/aakash-sharma25) - Backend Developer
 
