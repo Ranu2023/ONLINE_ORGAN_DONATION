@@ -1,3 +1,4 @@
 ## Contributors
-- [AAKASH SHARMA](https://github.com/aakash-sharma25) - Backend Developer
+- [Ranu Singh](https://github.com/ranu20023) - Project Lead / Developer
+- [PRIYANK RAUT](https://github.com/Priyank-Raut24) -  Frontend develop
 
